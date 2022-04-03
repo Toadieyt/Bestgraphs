@@ -46,12 +46,12 @@ p {
 }
 
 .nav__links li a:hover {
-    color: rgb(183, 100, 255);
+    color: rgb(0, 150, 200);
 }
 
 button {
 padding: 9px 25px;
-background-color: rgb(183, 0, 255);
+background-color: rgb(0, 150, 200);
 border: none;
 border-radius: 50px;
 cursor: pointer;
@@ -59,7 +59,7 @@ transition: all 0.5s ease;
 }
 
 button:hover {
-    background-color: rgb(143, 0, 255, 0.8);
+    background-color: rgb(0, 150, 200, 0.8);
 }
 
 /*article*/
@@ -96,7 +96,7 @@ h2 {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    color:rgb(183, 0, 255);
+    color:rgb(0, 150, 200);
     text-shadow: 10px 10px 10px black;
     text-decoration: none;
 }
@@ -178,7 +178,7 @@ ul{
 	position: absolute;
 	left: 110px;
 	bottom: -10px;
-	background-color: rgb(183, 0, 255);
+	background-color: rgb(0, 150, 200);
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
