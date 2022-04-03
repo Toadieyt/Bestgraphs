@@ -163,7 +163,7 @@ ul{
 .footer-col h4::before{
 	content: '';
 	position: absolute;
-	left: 110px;;
+	left: 110px;
 	bottom: -10px;
 	background-color: rgb(183, 0, 255);
 	height: 2px;
