@@ -73,7 +73,7 @@ p {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 30px;
-    color:#21232A;
+    color: whitesmoke;
     text-decoration: none;
 }
 
@@ -89,6 +89,17 @@ div {
     font-size: 16px;
     color:#21232A;
     text-decoration: none;
+}
+
+.cnctdiv {
+    color: whitesmoke;
+    font-family: "Montserrat", sans-serif;
+}
+
+.odsylacze {
+    margin-top: 120px;
+    margin-left: 200px;
+    text-align: left;
 }
 
 h2 {
@@ -112,21 +123,21 @@ summary {
 }
 
 .graph img {
-    padding-top: 10px;
+    margin-top: 50px;
     width: 766px;
     height: 432px;
 }
 
 .graph2 img {
-    padding-top: 10px;
+    margin-top: 50px;
     width: 400px;
     height: 400px;
 }
 
 .graph3 img {
-    padding-top: 10px;
-    width: 400px;
-    height: 420px;
+    margin-top: 50px;
+    width: 420px;
+    height: 400px;
 }
 /*footer*/
 
